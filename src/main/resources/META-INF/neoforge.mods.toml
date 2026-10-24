@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="trimfx"
+version="1.0.0"
+displayName="Trim FX"
+authors="jaca"
+description='''
+Brings tiered set bonuses (2, 3, or 4 pieces) and passive material attribute buffs to all 18 Vanilla Armor Trim Patterns and 11 Trim Materials.
+'''
+
+[[dependencies.trimfx]]
+modId="neoforge"
+type="required"
+versionRange="[26.3.0.95,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.trimfx]]
+modId="minecraft"
+type="required"
+versionRange="[26.3]"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.trimfx]]
+modId="biomesoplenty"
+type="optional"
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

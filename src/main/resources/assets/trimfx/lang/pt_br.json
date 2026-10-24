@@ -1,0 +1,160 @@
+{
+  "tooltip.trimfx.header": "◆ Bônus de Conjunto TrimFX ◆",
+  "tooltip.trimfx.template_header": "◆ Prévia de Molde TrimFX ◆",
+  "tooltip.trimfx.pattern_line": "Padrão [%s] (%s/%s) - %s",
+  "tooltip.trimfx.material_line": "Material [%s] (%s/%s) - %s",
+  "tooltip.trimfx.tier_active": "Tier %s Ativo",
+  "tooltip.trimfx.tier_inactive": "Requer 2+ peças",
+  "tooltip.trimfx.tier_detail": "  [%s/4 - Tier %s]: %s",
+  "tooltip.trimfx.hold_shift": "Segure [Shift] para ver todos os bônus (Tier I / II / III)",
+
+  "trimfx.material.iron.name": "Ferro",
+  "trimfx.material.iron.tier.1": "+1 Armadura",
+  "trimfx.material.iron.tier.2": "+2 Armadura",
+  "trimfx.material.iron.tier.3": "+3 Armadura",
+
+  "trimfx.material.copper.name": "Cobre",
+  "trimfx.material.copper.tier.1": "+4% Velocidade de Movimento",
+  "trimfx.material.copper.tier.2": "+8% Velocidade de Movimento",
+  "trimfx.material.copper.tier.3": "+12% Velocidade de Movimento",
+
+  "trimfx.material.gold.name": "Ouro",
+  "trimfx.material.gold.tier.1": "+5% Velocidade de Ataque",
+  "trimfx.material.gold.tier.2": "+10% Velocidade de Ataque",
+  "trimfx.material.gold.tier.3": "+15% Velocidade de Ataque",
+
+  "trimfx.material.diamond.name": "Diamante",
+  "trimfx.material.diamond.tier.1": "+1.0 Resistência de Armadura (Toughness)",
+  "trimfx.material.diamond.tier.2": "+2.0 Resistência de Armadura (Toughness)",
+  "trimfx.material.diamond.tier.3": "+3.5 Resistência de Armadura (Toughness)",
+
+  "trimfx.material.netherite.name": "Netherita",
+  "trimfx.material.netherite.tier.1": "+10% Resist. a Knockback & -15% Tempo em Chamas",
+  "trimfx.material.netherite.tier.2": "+20% Resist. a Knockback & -30% Tempo em Chamas",
+  "trimfx.material.netherite.tier.3": "+35% Resist. a Knockback & -50% Tempo em Chamas",
+
+  "trimfx.material.redstone.name": "Redstone",
+  "trimfx.material.redstone.tier.1": "+8% Velocidade de Mineração",
+  "trimfx.material.redstone.tier.2": "+16% Velocidade de Mineração",
+  "trimfx.material.redstone.tier.3": "+25% Velocidade de Mineração",
+
+  "trimfx.material.lapis.name": "Lápis-Lazúli",
+  "trimfx.material.lapis.tier.1": "+1 Bônus de Oxigênio & +25% Movimento na Água",
+  "trimfx.material.lapis.tier.2": "+2 Bônus de Oxigênio & +50% Movimento na Água",
+  "trimfx.material.lapis.tier.3": "+3 Bônus de Oxigênio & +80% Movimento na Água",
+
+  "trimfx.material.emerald.name": "Esmeralda",
+  "trimfx.material.emerald.tier.1": "+1 Sorte",
+  "trimfx.material.emerald.tier.2": "+2 Sorte",
+  "trimfx.material.emerald.tier.3": "+3 Sorte",
+
+  "trimfx.material.quartz.name": "Quartzo",
+  "trimfx.material.quartz.tier.1": "+1.0 Dano de Ataque",
+  "trimfx.material.quartz.tier.2": "+2.0 Dano de Ataque",
+  "trimfx.material.quartz.tier.3": "+3.0 Dano de Ataque",
+
+  "trimfx.material.amethyst.name": "Ametista",
+  "trimfx.material.amethyst.tier.1": "+0.5 Alcance de Bloco e Entidade",
+  "trimfx.material.amethyst.tier.2": "+1.0 Alcance de Bloco e Entidade",
+  "trimfx.material.amethyst.tier.3": "+1.5 Alcance de Bloco e Entidade",
+
+  "trimfx.material.resin.name": "Resina",
+  "trimfx.material.resin.tier.1": "+2 Vida Máxima (+1 Coração)",
+  "trimfx.material.resin.tier.2": "+4 Vida Máxima (+2 Corações)",
+  "trimfx.material.resin.tier.3": "+6 Vida Máxima (+3 Corações)",
+
+  "trimfx.material.rose_quartz.name": "Quartzo Rosa (Biomes O' Plenty)",
+  "trimfx.material.rose_quartz.tier.1": "+2 Absorção Máxima (+1 Coração Dourado) & 8% Roubo de Vida",
+  "trimfx.material.rose_quartz.tier.2": "+4 Absorção Máxima (+2 Corações Dourados) & 15% Roubo de Vida",
+  "trimfx.material.rose_quartz.tier.3": "+6 Absorção Máxima (+3 Corações Dourados) & 25% Roubo de Vida",
+
+  "trimfx.pattern.sentry.name": "Sentinela (Sentry)",
+  "trimfx.pattern.sentry.tier.1": "+10% Dano de Projéteis à Distância",
+  "trimfx.pattern.sentry.tier.2": "+20% Dano de Projéteis à Distância",
+  "trimfx.pattern.sentry.tier.3": "+35% Dano à Distância & aplica Brilho (5s)",
+
+  "trimfx.pattern.vex.name": "Vex",
+  "trimfx.pattern.vex.tier.1": "8% Chance de Esquiva Fantasma",
+  "trimfx.pattern.vex.tier.2": "15% Chance de Esquiva Fantasma",
+  "trimfx.pattern.vex.tier.3": "25% Chance de Esquiva Fantasma",
+
+  "trimfx.pattern.wild.name": "Selvagem (Wild)",
+  "trimfx.pattern.wild.tier.1": "-50% Veneno & Regeneração I (3s) ao abater",
+  "trimfx.pattern.wild.tier.2": "-75% Veneno & Regeneração I (5s) ao abater",
+  "trimfx.pattern.wild.tier.3": "Imune a Veneno & Regeneração I (8s) ao abater",
+
+  "trimfx.pattern.dune.name": "Dunas (Dune)",
+  "trimfx.pattern.dune.tier.1": "-15% Dano Fogo/Explosão & Escudo Absorção I (<40% Vida)",
+  "trimfx.pattern.dune.tier.2": "-25% Dano Fogo/Explosão & Escudo Absorção II (<40% Vida)",
+  "trimfx.pattern.dune.tier.3": "-40% Dano Fogo/Explosão & Escudo Absorção III (<40% Vida)",
+
+  "trimfx.pattern.coast.name": "Costa (Coast)",
+  "trimfx.pattern.coast.tier.1": "Respiração Aquática & +25% Mineração Submersa",
+  "trimfx.pattern.coast.tier.2": "Respiração Aquática & +50% Mineração Submersa",
+  "trimfx.pattern.coast.tier.3": "Respiração Aquática, +100% Mineração Submersa & Graça do Golfinho",
+
+  "trimfx.pattern.tide.name": "Maré (Tide)",
+  "trimfx.pattern.tide.tier.1": "Reflete 15% do Dano Recebido (Espinhos Hidráulicos)",
+  "trimfx.pattern.tide.tier.2": "Reflete 25% do Dano Recebido (Espinhos Hidráulicos)",
+  "trimfx.pattern.tide.tier.3": "Reflete 40% do Dano Recebido & Poder do Canal na Água",
+
+  "trimfx.pattern.flow.name": "Fluxo (Flow)",
+  "trimfx.pattern.flow.tier.1": "-40% Dano de Queda & Super Pulo I",
+  "trimfx.pattern.flow.tier.2": "-70% Dano de Queda & Super Pulo II",
+  "trimfx.pattern.flow.tier.3": "100% Imune a Queda & Super Pulo III",
+
+  "trimfx.pattern.bolt.name": "Raio (Bolt)",
+  "trimfx.pattern.bolt.tier.1": "10% Choque em Cadeia ao Atacar (2 Dano, 2x na Tempestade)",
+  "trimfx.pattern.bolt.tier.2": "18% Choque em Cadeia ao Atacar (4 Dano, 2x na Tempestade)",
+  "trimfx.pattern.bolt.tier.3": "30% Choque em Cadeia ao Atacar (6 Dano, 2x na Tempestade)",
+
+  "trimfx.pattern.ward.name": "Guardião (Ward)",
+  "trimfx.pattern.ward.tier.1": "Imune a Escuridão & -10% Dano no Escuro (Luz <=7)",
+  "trimfx.pattern.ward.tier.2": "Imune a Escuridão & -18% Dano no Escuro (Luz <=7)",
+  "trimfx.pattern.ward.tier.3": "Imune a Escuridão, -28% Dano no Escuro & Visão Noturna",
+
+  "trimfx.pattern.silence.name": "Silêncio (Silence)",
+  "trimfx.pattern.silence.tier.1": "+25% Velocidade Agachado & -20% Detecção de Mobs",
+  "trimfx.pattern.silence.tier.2": "+50% Velocidade Agachado & -35% Detecção de Mobs",
+  "trimfx.pattern.silence.tier.3": "+80% Vel. Agachado, -50% Detecção & Silencia Vibrações Sculk",
+
+  "trimfx.pattern.wayfinder.name": "Desbravador (Wayfinder)",
+  "trimfx.pattern.wayfinder.tier.1": "-25% Gasto de Fome ao Correr & Sobe 1 Bloco Inteiro",
+  "trimfx.pattern.wayfinder.tier.2": "-50% Gasto de Fome ao Correr & Sobe 1 Bloco Inteiro",
+  "trimfx.pattern.wayfinder.tier.3": "-75% Gasto de Fome ao Correr & Sobe 1 Bloco Inteiro",
+
+  "trimfx.pattern.raiser.name": "Cultivador (Raiser)",
+  "trimfx.pattern.raiser.tier.1": "+15% Cura Recebida & +1 Fome/+0.5 Sat ao Comer",
+  "trimfx.pattern.raiser.tier.2": "+30% Cura Recebida & +2 Fome/+1.0 Sat ao Comer",
+  "trimfx.pattern.raiser.tier.3": "+50% Cura Recebida & +3 Fome/+1.5 Sat ao Comer",
+
+  "trimfx.pattern.shaper.name": "Moldador (Shaper)",
+  "trimfx.pattern.shaper.tier.1": "15% Chance de Economizar Durabilidade da Ferramenta",
+  "trimfx.pattern.shaper.tier.2": "30% Chance de Economizar Durabilidade da Ferramenta",
+  "trimfx.pattern.shaper.tier.3": "45% Chance de Economizar Durabilidade da Ferramenta",
+
+  "trimfx.pattern.host.name": "Anfitrião (Host)",
+  "trimfx.pattern.host.tier.1": "+20% XP Coletado & Ímã de Itens/XP (2.0 blocos)",
+  "trimfx.pattern.host.tier.2": "+40% XP Coletado & Ímã de Itens/XP (3.5 blocos)",
+  "trimfx.pattern.host.tier.3": "+70% XP Coletado & Ímã de Itens/XP (5.0 blocos)",
+
+  "trimfx.pattern.snout.name": "Focinho (Snout)",
+  "trimfx.pattern.snout.tier.1": "Pacifica Piglins & +12% Dano no Nether/vs Piglins",
+  "trimfx.pattern.snout.tier.2": "Pacifica Piglins & +22% Dano no Nether/vs Piglins",
+  "trimfx.pattern.snout.tier.3": "Pacifica Piglins & +35% Dano no Nether/vs Piglins",
+
+  "trimfx.pattern.rib.name": "Costela (Rib)",
+  "trimfx.pattern.rib.tier.1": "-50% Dano Wither & aplica Wither I (3s) ao Atacar",
+  "trimfx.pattern.rib.tier.2": "-80% Dano Wither & aplica Wither I (5s) ao Atacar",
+  "trimfx.pattern.rib.tier.3": "Imune a Wither, aplica Wither II (6s) & Cura 1 Coração ao Abater",
+
+  "trimfx.pattern.eye.name": "Olho (Eye)",
+  "trimfx.pattern.eye.tier.1": "Acalma Endermen, Zero Dano de Ender Pearl (-25% CD) & +10% Dano Crítico",
+  "trimfx.pattern.eye.tier.2": "Acalma Endermen, Zero Dano de Ender Pearl (-50% CD) & +20% Dano Crítico",
+  "trimfx.pattern.eye.tier.3": "Acalma Endermen, Zero Dano de Ender Pearl (-75% CD) & +35% Dano Crítico",
+
+  "trimfx.pattern.spire.name": "Pináculo (Spire)",
+  "trimfx.pattern.spire.tier.1": "Converte Levitação em Queda Lenta, Planar Agachado & 12% Levitar Alvo",
+  "trimfx.pattern.spire.tier.2": "Converte Levitação em Queda Lenta, Planar Agachado & 20% Levitar Alvo",
+  "trimfx.pattern.spire.tier.3": "Converte Levitação em Queda Lenta, Planar Agachado & 30% Levitar Alvo"
+}

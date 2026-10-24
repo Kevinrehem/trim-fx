@@ -1,0 +1,19 @@
+# Gradle & Maven build outputs
+.gradle/
+build/
+target/
+out/
+
+# IDE & Runtime caches
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+run/
+logs/
+crash-reports/
+
+# Agent runtime caches
+.antigravity/

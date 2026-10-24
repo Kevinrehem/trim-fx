@@ -1,0 +1,160 @@
+{
+  "tooltip.trimfx.header": "◆ TrimFX Set Bonuses ◆",
+  "tooltip.trimfx.template_header": "◆ TrimFX Smithing Preview ◆",
+  "tooltip.trimfx.pattern_line": "Pattern [%s] (%s/%s) - %s",
+  "tooltip.trimfx.material_line": "Material [%s] (%s/%s) - %s",
+  "tooltip.trimfx.tier_active": "Tier %s Active",
+  "tooltip.trimfx.tier_inactive": "Requires 2+ pieces",
+  "tooltip.trimfx.tier_detail": "  [%s/4 - Tier %s]: %s",
+  "tooltip.trimfx.hold_shift": "Hold [Shift] to view all Tier I / II / III bonuses",
+
+  "trimfx.material.iron.name": "Iron",
+  "trimfx.material.iron.tier.1": "+1 Armor",
+  "trimfx.material.iron.tier.2": "+2 Armor",
+  "trimfx.material.iron.tier.3": "+3 Armor",
+
+  "trimfx.material.copper.name": "Copper",
+  "trimfx.material.copper.tier.1": "+4% Movement Speed",
+  "trimfx.material.copper.tier.2": "+8% Movement Speed",
+  "trimfx.material.copper.tier.3": "+12% Movement Speed",
+
+  "trimfx.material.gold.name": "Gold",
+  "trimfx.material.gold.tier.1": "+5% Attack Speed",
+  "trimfx.material.gold.tier.2": "+10% Attack Speed",
+  "trimfx.material.gold.tier.3": "+15% Attack Speed",
+
+  "trimfx.material.diamond.name": "Diamond",
+  "trimfx.material.diamond.tier.1": "+1.0 Armor Toughness",
+  "trimfx.material.diamond.tier.2": "+2.0 Armor Toughness",
+  "trimfx.material.diamond.tier.3": "+3.5 Armor Toughness",
+
+  "trimfx.material.netherite.name": "Netherite",
+  "trimfx.material.netherite.tier.1": "+10% Knockback Resistance & -15% Burn Time",
+  "trimfx.material.netherite.tier.2": "+20% Knockback Resistance & -30% Burn Time",
+  "trimfx.material.netherite.tier.3": "+35% Knockback Resistance & -50% Burn Time",
+
+  "trimfx.material.redstone.name": "Redstone",
+  "trimfx.material.redstone.tier.1": "+8% Block Break Speed",
+  "trimfx.material.redstone.tier.2": "+16% Block Break Speed",
+  "trimfx.material.redstone.tier.3": "+25% Block Break Speed",
+
+  "trimfx.material.lapis.name": "Lapis Lazuli",
+  "trimfx.material.lapis.tier.1": "+1 Oxygen Bonus & +25% Water Movement",
+  "trimfx.material.lapis.tier.2": "+2 Oxygen Bonus & +50% Water Movement",
+  "trimfx.material.lapis.tier.3": "+3 Oxygen Bonus & +80% Water Movement",
+
+  "trimfx.material.emerald.name": "Emerald",
+  "trimfx.material.emerald.tier.1": "+1 Luck",
+  "trimfx.material.emerald.tier.2": "+2 Luck",
+  "trimfx.material.emerald.tier.3": "+3 Luck",
+
+  "trimfx.material.quartz.name": "Quartz",
+  "trimfx.material.quartz.tier.1": "+1.0 Attack Damage",
+  "trimfx.material.quartz.tier.2": "+2.0 Attack Damage",
+  "trimfx.material.quartz.tier.3": "+3.0 Attack Damage",
+
+  "trimfx.material.amethyst.name": "Amethyst",
+  "trimfx.material.amethyst.tier.1": "+0.5 Block & Entity Reach",
+  "trimfx.material.amethyst.tier.2": "+1.0 Block & Entity Reach",
+  "trimfx.material.amethyst.tier.3": "+1.5 Block & Entity Reach",
+
+  "trimfx.material.resin.name": "Resin",
+  "trimfx.material.resin.tier.1": "+2 Max Health (+1 Heart)",
+  "trimfx.material.resin.tier.2": "+4 Max Health (+2 Hearts)",
+  "trimfx.material.resin.tier.3": "+6 Max Health (+3 Hearts)",
+
+  "trimfx.material.rose_quartz.name": "Rose Quartz (Biomes O' Plenty)",
+  "trimfx.material.rose_quartz.tier.1": "+2 Max Absorption (+1 Golden Heart) & 8% Melee Lifesteal",
+  "trimfx.material.rose_quartz.tier.2": "+4 Max Absorption (+2 Golden Hearts) & 15% Melee Lifesteal",
+  "trimfx.material.rose_quartz.tier.3": "+6 Max Absorption (+3 Golden Hearts) & 25% Melee Lifesteal",
+
+  "trimfx.pattern.sentry.name": "Sentry",
+  "trimfx.pattern.sentry.tier.1": "+10% Ranged Projectile Damage",
+  "trimfx.pattern.sentry.tier.2": "+20% Ranged Projectile Damage",
+  "trimfx.pattern.sentry.tier.3": "+35% Ranged Projectile Damage & applies Glowing (5s)",
+
+  "trimfx.pattern.vex.name": "Vex",
+  "trimfx.pattern.vex.tier.1": "8% Phantom Dodge Chance",
+  "trimfx.pattern.vex.tier.2": "15% Phantom Dodge Chance",
+  "trimfx.pattern.vex.tier.3": "25% Phantom Dodge Chance",
+
+  "trimfx.pattern.wild.name": "Wild",
+  "trimfx.pattern.wild.tier.1": "-50% Poison Duration & Regeneration I (3s) on Kill",
+  "trimfx.pattern.wild.tier.2": "-75% Poison Duration & Regeneration I (5s) on Kill",
+  "trimfx.pattern.wild.tier.3": "Poison Immunity & Regeneration I (8s) on Kill",
+
+  "trimfx.pattern.dune.name": "Dune",
+  "trimfx.pattern.dune.tier.1": "-15% Fire/Explosion Damage & Absorption I Shield (<40% HP)",
+  "trimfx.pattern.dune.tier.2": "-25% Fire/Explosion Damage & Absorption II Shield (<40% HP)",
+  "trimfx.pattern.dune.tier.3": "-40% Fire/Explosion Damage & Absorption III Shield (<40% HP)",
+
+  "trimfx.pattern.coast.name": "Coast",
+  "trimfx.pattern.coast.tier.1": "Water Breathing & +25% Submerged Mining Speed",
+  "trimfx.pattern.coast.tier.2": "Water Breathing & +50% Submerged Mining Speed",
+  "trimfx.pattern.coast.tier.3": "Water Breathing, +100% Submerged Mining & Dolphin's Grace",
+
+  "trimfx.pattern.tide.name": "Tide",
+  "trimfx.pattern.tide.tier.1": "Reflects 15% Taken Damage as Hydraulic Thorns",
+  "trimfx.pattern.tide.tier.2": "Reflects 25% Taken Damage as Hydraulic Thorns",
+  "trimfx.pattern.tide.tier.3": "Reflects 40% Taken Damage & grants Conduit Power in Water",
+
+  "trimfx.pattern.flow.name": "Flow",
+  "trimfx.pattern.flow.tier.1": "-40% Fall Damage & Jump Boost I",
+  "trimfx.pattern.flow.tier.2": "-70% Fall Damage & Jump Boost II",
+  "trimfx.pattern.flow.tier.3": "100% Fall Damage Immunity & Jump Boost III",
+
+  "trimfx.pattern.bolt.name": "Bolt",
+  "trimfx.pattern.bolt.tier.1": "10% Chain Shock on Hit (2 DMG, 2x chance in Thunder)",
+  "trimfx.pattern.bolt.tier.2": "18% Chain Shock on Hit (4 DMG, 2x chance in Thunder)",
+  "trimfx.pattern.bolt.tier.3": "30% Chain Shock on Hit (6 DMG, 2x chance in Thunder)",
+
+  "trimfx.pattern.ward.name": "Ward",
+  "trimfx.pattern.ward.tier.1": "Darkness Immunity & -10% Damage in Low Light (<=7)",
+  "trimfx.pattern.ward.tier.2": "Darkness Immunity & -18% Damage in Low Light (<=7)",
+  "trimfx.pattern.ward.tier.3": "Darkness Immunity, -28% Low-Light Damage & Night Vision",
+
+  "trimfx.pattern.silence.name": "Silence",
+  "trimfx.pattern.silence.tier.1": "+25% Sneaking Speed & -20% Mob Detection Range",
+  "trimfx.pattern.silence.tier.2": "+50% Sneaking Speed & -35% Mob Detection Range",
+  "trimfx.pattern.silence.tier.3": "+80% Sneaking Speed, -50% Detection & Sculk Silence",
+
+  "trimfx.pattern.wayfinder.name": "Wayfinder",
+  "trimfx.pattern.wayfinder.tier.1": "-25% Sprint Exhaustion & +0.5 Step Height",
+  "trimfx.pattern.wayfinder.tier.2": "-50% Sprint Exhaustion & +0.5 Step Height",
+  "trimfx.pattern.wayfinder.tier.3": "-75% Sprint Exhaustion & +0.5 Step Height",
+
+  "trimfx.pattern.raiser.name": "Raiser",
+  "trimfx.pattern.raiser.tier.1": "+15% Healing Received & +1 Food/+0.5 Sat on Eating",
+  "trimfx.pattern.raiser.tier.2": "+30% Healing Received & +2 Food/+1.0 Sat on Eating",
+  "trimfx.pattern.raiser.tier.3": "+50% Healing Received & +3 Food/+1.5 Sat on Eating",
+
+  "trimfx.pattern.shaper.name": "Shaper",
+  "trimfx.pattern.shaper.tier.1": "15% Tool Durability Conservation Chance",
+  "trimfx.pattern.shaper.tier.2": "30% Tool Durability Conservation Chance",
+  "trimfx.pattern.shaper.tier.3": "45% Tool Durability Conservation Chance",
+
+  "trimfx.pattern.host.name": "Host",
+  "trimfx.pattern.host.tier.1": "+20% XP Gained & 2.0m Item/XP Magnet",
+  "trimfx.pattern.host.tier.2": "+40% XP Gained & 3.5m Item/XP Magnet",
+  "trimfx.pattern.host.tier.3": "+70% XP Gained & 5.0m Item/XP Magnet",
+
+  "trimfx.pattern.snout.name": "Snout",
+  "trimfx.pattern.snout.tier.1": "Pacifies Piglins & +12% Damage in Nether/vs Piglins",
+  "trimfx.pattern.snout.tier.2": "Pacifies Piglins & +22% Damage in Nether/vs Piglins",
+  "trimfx.pattern.snout.tier.3": "Pacifies Piglins & +35% Damage in Nether/vs Piglins",
+
+  "trimfx.pattern.rib.name": "Rib",
+  "trimfx.pattern.rib.tier.1": "-50% Wither Damage & inflicts Wither I (3s) on Hit",
+  "trimfx.pattern.rib.tier.2": "-80% Wither Damage & inflicts Wither I (5s) on Hit",
+  "trimfx.pattern.rib.tier.3": "Wither Immunity, inflicts Wither II (6s) & heals 1 Heart on Kill",
+
+  "trimfx.pattern.eye.name": "Eye",
+  "trimfx.pattern.eye.tier.1": "Calms Endermen, No Pearl Damage (-25% CD) & +10% Crit Damage",
+  "trimfx.pattern.eye.tier.2": "Calms Endermen, No Pearl Damage (-50% CD) & +20% Crit Damage",
+  "trimfx.pattern.eye.tier.3": "Calms Endermen, No Pearl Damage (-75% CD) & +35% Crit Damage",
+
+  "trimfx.pattern.spire.name": "Spire",
+  "trimfx.pattern.spire.tier.1": "Levitation -> Slow Falling, Air-Sneak Glide & 12% Levitate Hit",
+  "trimfx.pattern.spire.tier.2": "Levitation -> Slow Falling, Air-Sneak Glide & 20% Levitate Hit",
+  "trimfx.pattern.spire.tier.3": "Levitation -> Slow Falling, Air-Sneak Glide & 30% Levitate Hit"
+}
